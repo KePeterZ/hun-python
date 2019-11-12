@@ -1,0 +1,16 @@
+{
+    "ha ": "if ",
+    "hamegsem": "else",
+    "nyomtass": "print",
+    "hozdbe ": "import ",
+    "amig ": "while ",
+    "Igaz": "True",
+    "Hamis": "False",
+    "bemenet(": "input(",
+    "minden ": "for ",
+    "hatarban(": "range(",
+    "ami ": "in ",
+    "egesz(": "int(",
+    "szoveg(": "str(",
+    "break": "romolj"
+}
